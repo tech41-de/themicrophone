@@ -27,6 +27,7 @@ body{
 }
   
 .header { 
+  font-family: "Verdana: sans-serif";
   position: fixed; 
   height:40px;
   width:100%;
