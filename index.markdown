@@ -1,0 +1,164 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<head>
+<meta name="keywords" content="Microphone, microphones, history, application, condensor, dynamic, ribbon, electret, audio, sound, music">
+<meta name="description" content="The Microphone - All about the history and the application of microphones">
+<meta name="author" content="Mathias Dietrich">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="icon" href="https://themicrophone.org/img/favicon.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+   font-family: "Verdana: sans-serif";
+   padding:0px;
+   margin:0px;
+   background-color:black;
+   background-image: linear-gradient(#00416a, #e4e5e6);
+}
+  
+.header { 
+  position: fixed; 
+  height:40px;
+  width:100%;
+  top: 0; 
+  left: 0; 
+  right:0;
+  background-color:#333344;
+  color:gray;
+  font-size:13px;
+  text-align: center;
+  display: grid;
+  align-items: center;
+}
+
+.title{ 
+  margin:10px;
+  z-index: 20;
+  position: relative; 
+  top: 15px;
+  font-family: "Rancho", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4em;
+  color: White;
+  line-height: 1em;
+}
+
+.teaser{
+  margin:10px;
+  font-family: "Rancho", cursive;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 2.5em;
+  color: White;
+}
+  
+.challenge{
+  margin:10px;
+  font-size: 1em;
+  color:white;
+}
+
+.footer { 
+    height:30px;
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    z-index: 10;
+    background-color:#333344;
+    color:gray;
+    font-size:11px;
+    text-align: center;
+    display: grid;
+	  align-items: center;
+}
+
+h2 {
+  font-size: 26px;
+  margin: 20px 0;
+  text-align: center;
+  font-size: 0.5em;
+}
+
+a{
+  color:white;
+}
+.responsive-table {
+  li {
+    display: table;
+    width:100%;
+    border-radius: 13px;
+    margin-top:25px;
+    margin-left:0px;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+  }
+  .table-header {
+    background-color: #95A5A6;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .table-row {
+    width:100%;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
+  }
+  .col-1 {
+    flex-basis: 170px;
+    text-align: center;
+  }
+  .col-2 {
+    flex-basis: 40%;
+    text-align: left;
+  }
+  .col-3 {
+    flex-basis: 20%;
+  }
+  .col-4 {
+    flex-basis: 20%;
+  }
+  
+
+ 
+
+</style>
+</head>
+
+
+<div class="header">The Microphone - All about the history and the application of microphones</div>
+<div class="title">The Microphone</div>
+  
+  <ul class="responsive-table">
+
+    <li class="table-row">
+      <div class="col col-1"><img src="img/hughesMic.jpeg" height="150" width="150"/><b>Hughes Carbon Mic ~1870</b></div>
+
+      <div class="col col-2"><b>David Edward Hughes</b>, England<br/>The first microphone that enabled proper voice telephony was the (loose-contact) carbon microphone. This was independently developed by David Edward Hughes in England and Emile Berliner and Thomas Edison in the US. Although Edison was awarded the first patent (after a long legal dispute) in mid-1877, Hughes had demonstrated his working device in front of many witnesses some years earlier, and most historians credit him with its invention. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a></div>
+      <div class="col col-3">$? - Not available, DIY: <img src="img/carbon.gif" width="150"/></div>
+      <div class="col col-4">IR not available</div>
+    </li>
+
+
+
+</ul>
+  
+  <h3 class="teaser">Let's add one mic a day challenge: </h3> 
+  <div class="challenge">Do you like to add a microphone? Email to <a href="mailto:mat@themicrophone.org">mat@themicrophone.org</a>.</div>
+
+ <!--<div class="footer">The Microphone, Milano 2024</div>-->
+
+
