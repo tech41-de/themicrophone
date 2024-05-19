@@ -132,18 +132,26 @@ a{
     flex-basis: 20%;
   }
   
-
- 
-
 </style>
 </head>
-
 
 <div class="header">The Microphone - All about the history and the application of microphones</div>
 <div class="title">The Microphone</div>
   
   <ul class="responsive-table">
 
+    {% for m in site.data.data %}
+    <li class="table-row">
+        
+      <div class="col col-1"><img src="{{ m[0] }}" width=150 height=150/><b>{{ m[1]}}</b></div>
+      <div class="col col-2"><b>{{ m[2] }}</b>, {{ m[3] }}<br/>{{ m[4] }}</div>
+      <div class="col col-3">{{ m[5] }}</div>
+      <div class="col col-4">{{ m[6] }}</div>
+    </li>
+    {% endfor %}
+
+
+<!--
     <li class="table-row">
       <div class="col col-1"><img src="img/hughesMic.jpeg" height="150" width="150"/><b>Hughes Carbon Mic ~1870</b></div>
 
@@ -151,6 +159,7 @@ a{
       <div class="col col-3">$? - Not available, DIY: <img src="img/carbon.gif" width="150"/></div>
       <div class="col col-4">IR not available</div>
     </li>
+    -->
 
 
 
