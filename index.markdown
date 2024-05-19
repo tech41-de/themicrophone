@@ -117,6 +117,15 @@ a{
     width:100%;
     background-color: #ffffff;
     box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
+    letter-spacing: 0.03em;
+  }
+    .table-row2 {
+     margin:0px;
+    width:100%;
+    background-color: #ffffff;
+    border-style: groove;
+    border-color: #663333;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
   }
   .col-1 {
     flex-basis: 170px;
@@ -143,12 +152,16 @@ a{
 
     {% for m in site.data.data %}
     <li class="table-row">
-        
+
       <div class="col col-1"><img src="{{ m[0] }}" width=150 height=150/><b>{{ m[1]}}</b></div>
-      <div class="col col-2"><b>{{ m[2] }}</b>, {{ m[3] }}<br/>{{ m[4] }}</div>
+      <div class="col col-2"><b>{{ m[2] }}</b>, {{ m[3] }}</div>
       <div class="col col-3">{{ m[5] }}</div>
       <div class="col col-4">{{ m[6] }}</div>
+      
     </li>
+ <li class="table-row2">
+<div>{{ m[4] }}</div>
+  </li>
     {% endfor %}
 
 
