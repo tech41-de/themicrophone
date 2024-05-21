@@ -100,12 +100,12 @@ a{
     display: table;
     width:100%;
     border-radius: 13px;
-    margin-top:25px;
+    margin-top:5px;
     margin-left:0px;
-    padding: 5px 5px;
+    padding: 2px 2px;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
   }
   .table-header {
     background-color: #95A5A6;
@@ -119,29 +119,41 @@ a{
     box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
     letter-spacing: 0.03em;
   }
-    .table-row2 {
-     margin:0px;
-    width:100%;
-    background-color: #ffffff;
-    border-style: groove;
-    border-color: #663333;
-    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
-  }
+
   .col-1 {
-    flex-basis: 170px;
-    text-align: center;
+    flex-basis: 160px;
+    text-align: left;
+    padding:5px;
   }
   .col-2 {
-    flex-basis: 40%;
+    flex-basis: 100%;
+    margin:5px;
     text-align: left;
+    background-color:#EEEEEE;
   }
   .col-3 {
-    flex-basis: 20%;
+    margin:0px;
+    text-align: left;
+    background-color:#FFFFFF;
   }
   .col-4 {
+    text-align: left;
     flex-basis: 20%;
   }
+  .col-5 {
+    text-align: left;
+    flex-basis: 20%;
+  }
+  .col-6 {
+    text-align: left;
+    flex-basis: 20%;
+    color:black;
+    a{
+       color:blue;
+    }
+  }
   
+  <!-- bundle exec jekyll serve  -->
 </style>
 </head>
 
@@ -152,36 +164,28 @@ a{
 
     {% for m in site.data.data %}
     <li class="table-row">
-
-      <div class="col col-1"><img src="{{ m[0] }}" width=150 height=150/><b>{{ m[1]}}</b></div>
-      <div class="col col-2"><b>{{ m[2] }}</b>, {{ m[3] }}</div>
-      <div class="col col-3">{{ m[5] }}</div>
-      <div class="col col-4">{{ m[6] }}</div>
-      
-    </li>
- <li class="table-row2">
-<div>{{ m[4] }}</div>
-  </li>
+     <div class="col col-1"><img src="{{ m[0]}}" width=150 height=150/><b>{{m[1]}}</b>
+     <br/>{{ m[3] }}
+     <br/>{{ m[4] }}, {{ m[2] }}
+     </div>
+     <div class="col col-2">
+      <table >
+      <tr>
+      <td colspan ="3">
+        <div class="col col-3">
+          {{ m[5] }}
+        </div>
+        </td>
+        </tr>
+      <tr>
+        <td><div class="col col-4">{{m[6]}}</div></td>
+        <td><div class="col col-5">{{m[7]}}</div></td>
+        <td><div class="col col-6">{{m[8]}}</div></td>
+       </tr>
+      </table>
+      </div>
+      </li>
     {% endfor %}
-
-
-<!--
-    <li class="table-row">
-      <div class="col col-1"><img src="img/hughesMic.jpeg" height="150" width="150"/><b>Hughes Carbon Mic ~1870</b></div>
-
-      <div class="col col-2"><b>David Edward Hughes</b>, England<br/>The first microphone that enabled proper voice telephony was the (loose-contact) carbon microphone. This was independently developed by David Edward Hughes in England and Emile Berliner and Thomas Edison in the US. Although Edison was awarded the first patent (after a long legal dispute) in mid-1877, Hughes had demonstrated his working device in front of many witnesses some years earlier, and most historians credit him with its invention. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a></div>
-      <div class="col col-3">$? - Not available, DIY: <img src="img/carbon.gif" width="150"/></div>
-      <div class="col col-4">IR not available</div>
-    </li>
-    -->
-
-
-
 </ul>
-  
-  <h3 class="teaser">Let's add one mic a day challenge: </h3> 
-  <div class="challenge">Do you like to add a microphone? Email to <a href="mailto:mat@themicrophone.org">mat@themicrophone.org</a>.</div>
-
- <!--<div class="footer">The Microphone, Milano 2024</div>-->
-
-
+ <h3 class="teaser">Let's add one mic a day challenge: </h3> 
+ <div class="challenge">Do you like to add a microphone? Email to <a href="mailto:mat@themicrophone.org">mat@themicrophone.org</a>.</div>
