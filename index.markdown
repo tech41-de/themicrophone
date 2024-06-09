@@ -164,23 +164,23 @@ a{
 
     {% for m in site.data.data %}
     <li class="table-row">
-     <div class="col col-1"><img src="{{ m[0]}}" width=150 height=150/><b>{{m[1]}}</b>
-     <br/>{{ m[3] }}
-     <br/>{{ m[4] }}, {{ m[2] }}
+     <div class="col col-1"><img src="{{ m[1]}}" width=150 height=150/><b>{{m[2]}}</b>
+     <br/>{{ m[4] }}
+     <br/>{{ m[5] }}, {{ m[3] }}
      </div>
      <div class="col col-2">
       <table >
       <tr>
       <td colspan ="3">
         <div class="col col-3">
-          {{ m[5] }}
+          {{ m[6] }}
         </div>
         </td>
         </tr>
       <tr>
-        <td><div class="col col-4">{{m[6]}}</div></td>
-        <td><div class="col col-5">{{m[7]}}</div></td>
-        <td><div class="col col-6">{{m[8]}}</div></td>
+        <td><div class="col col-4">{{m[7]}}</div></td>
+        <td><div class="col col-5">{{m[8]}}</div></td>
+        <td><div class="col col-6">{{m[9]}}</div></td>
        </tr>
       </table>
       </div>
