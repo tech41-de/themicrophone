@@ -3,8 +3,17 @@ The Microphone
 
 https://themicrophone.org
 
+You need ruby and jekyll installed:
+gem install jekyll
 
-Build test with bundle exec jekyll serve
+You need bundle installed:
+gem install bundler
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+
+build with: bundler install
+
+test with: bundle exec jekyll serve
 
 Test with local server: python3 -m http.server
 Browse at: http://localhost:8000/_site/ 
