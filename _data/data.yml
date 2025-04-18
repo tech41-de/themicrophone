@@ -1,12 +1,10 @@
-
 - - '0'
   - img/sm7.jpg
   - SM 7
   - '1973'
   - Shure
   - USA
-  - '
-    The Shure SM7 is a professional cardioid dynamic microphone. It has been described
+  - ' The Shure SM7 is a professional cardioid dynamic microphone. It has been described
     as an industry- standard technical microphone , "iconic" for its focused, directional
     sound and its widespread adoption in radio , television and recording studios.
     In 2007-2008, the SM7B model became very popular for professional podcasting!
@@ -16,7 +14,6 @@
     Weight 765.4 grams"
   - "Dynamic Cardioid, Sensitivity \u221259 dBV/Pa (1.12 mV), Impedance 150 ohms,
     Weight 765.4 grams"
-
 - - '1'
   - img/re20.webp
   - RE20
@@ -33,7 +30,6 @@
   - '<a href=''impulse/EV_RE20_HPF.wav'' target=''_blank''>IR HPF download</a><br/><a
     href=''impulse/EV_RE20_Flat.wav'' target=''_blank''>IR Flat download</a><br/>Provided
     by: <a target=''_blank'' href=''https://micirp.blogspot.com/search/label/Electrovoice''>MICIRP</a>'
-
 - - '2'
   - img/sh55.png
   - Shure 55 SH
@@ -48,19 +44,19 @@
   - $259 (Shure Super55)
   - "Dymanic Cardioid<br/>50 - 15.000 Hz<br/>EIA \u2212150 \u03A9 (270 \u03A9 current)"
   - IR not available
-
 - - '3'
   - img/coles4038.png
   - 4038 Studio Ribbon Microphone
   - '1934'
   - Coles
   - England
-  - "The origins of the 4038 go back to 1934, when the BBC-Marconi Type A became the first pressure-gradient ribbon microphone to be manufactured in Great Britain. If you love the symbal sound on Pink Floyd's Dark side of the moon, this is your choise. Don't forgt to boost the top end +10 dB :-)."
+  - The origins of the 4038 go back to 1934, when the BBC-Marconi Type A became the
+    first pressure-gradient ribbon microphone to be manufactured in Great Britain.
+    If you love the symbal sound on Pink Floyd's Dark side of the moon, this is your
+    choise. Don't forgt to boost the top end +10 dB :-).
   - 'about $1.500 '
-  - 'Ribbon, figure 8, flat from 30 to 15,000 Hz'
+  - Ribbon, figure 8, flat from 30 to 15,000 Hz
   - no ir
-
-
 - - '4'
   - img/cv3.png
   - CMV 3
@@ -92,4 +88,20 @@
     target="_blank">Wikipedia...</a>
   - $? - Unknown
   - 'DIY: <img src="img/carbon.gif" width="150"/>'
+  - IR not available
+- - '6'
+  - img/U47.png
+  - Neuman
+  - '1949'
+  - Neuman
+  - Germany
+  - The Neumann U 47 is a large-diaphragm condenser microphone. It is one of the most
+    famous studio microphones and was Neumann's first microphone after the Second
+    World War. The original series, manufactured by Georg Neumann GmbH between 1949
+    and 1965, employed a tube design; early U 47s used the M 7 capsule, then replaced
+    by the K 47 from 1958. Units produced before 1950 were distributed by Telefunken
+    and bear the Telefunken logo.[1] credit him with its invention. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Neumann_U_47" target="_blank">Wikipedia...</a>
+  - $11000
+  - 'Condensor, Diameter: 9 cm, height: 40 cm, weight: 3 kg. '
   - IR not available
