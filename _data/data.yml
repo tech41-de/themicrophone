@@ -11,7 +11,7 @@
   - ''
   - IR available not available
 - - '43'
-  - img/rode_podmic_512x512.png
+  - img/potmic.png
   - "R\xD8DE PodMic"
   - '2019'
   - "R\xD8DE"
@@ -192,13 +192,12 @@
   - Japan
   - Broadcast large-diaphragm dynamic microphone delivering a robust, warm voice tone
     with a hypercardioid pattern, designed to compete with industry-standard broadcast
-    mics. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
-    target="_blank">Wikipedia...</a>
+    mics. 
   - $349
   - ''
   - IR not available
 - - '44'
-  - img/placeholder.jpg
+  - img/rhodeNTUSB.png
   - "R\xD8DE NT-USB"
   - '2014'
   - "R\xD8DE"
@@ -210,7 +209,7 @@
   - ''
   - IR not available
 - - '66'
-  - img/placeholder.jpg
+  - img/lewitLTC940.png
   - Lewitt LCT 940
   - '2013'
   - Lewitt
@@ -223,7 +222,7 @@
   - ''
   - IR not available
 - - '38'
-  - img/placeholder.jpg
+  - img/audioTechnica2020.png
   - Audio-Technica AT2020USB+
   - '2012'
   - Audio-Technica
@@ -235,7 +234,7 @@
   - ''
   - IR not available
 - - '75'
-  - img/placeholder.jpg
+  - img/ApoGeeMic.png
   - Apogee MiC
   - '2011'
   - Apogee
@@ -248,7 +247,7 @@
   - ''
   - IR available not available
 - - '80'
-  - img/placeholder.jpg
+  - img/telefunkencu92.png
   - Telefunken CU-29 Copperhead
   - '2011'
   - Telefunken
@@ -261,7 +260,7 @@
   - ''
   - IR not available
 - - '59'
-  - img/placeholder.jpg
+  - img/shureKSM313.png
   - Shure KSM313
   - '2010'
   - Shure
@@ -274,20 +273,18 @@
   - ''
   - IR available not available
 - - '72'
-  - img/placeholder.jpg
+  - img/mxlr144.png
   - MXL R144
   - '2010'
   - MXL
   - USA
   - Entry-level bidirectional ribbon microphone providing a smooth, warm tone for
-    recording guitar cabinets, vocals, and room ambiance at an affordable price. More
-    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
-    target="_blank">Wikipedia...</a>
+    recording guitar cabinets, vocals, and room ambiance at an affordable price. 
   - $99
   - ''
   - IR not available
 - - '74'
-  - img/placeholder.jpg
+  - img/smasungq2u.png
   - Samson Q2U
   - '2010'
   - Samson
@@ -299,7 +296,7 @@
   - ''
   - IR not available
 - - '91'
-  - img/placeholder.jpg
+  - img/cade100s.png
   - CAD E100S
   - '2010'
   - CAD
@@ -312,43 +309,40 @@
   - ''
   - IR available not available
 - - '92'
-  - img/placeholder.jpg
+  - img/shure91a.png
   - Shure Beta 91A
   - '2010'
   - Shure
   - USA
   - Boundary condenser microphone primarily used inside kick drums and on piano soundboards,
-    capturing deep lows and attack without stand mounting. More on <a style="color:rgb(43,
-    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+    capturing deep lows and attack without stand mounting. 
   - $239
   - ''
   - IR not available
 - - '45'
-  - img/placeholder.jpg
+  - img/blueyeti.png
   - Blue Yeti
   - '2009'
   - Blue Microphones
   - USA
   - Versatile USB microphone with multiple pickup patterns (cardioid, omni, bidirectional,
-    stereo), widely used for streaming, podcasting, and VO. More on <a style="color:rgb(43,
-    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+    stereo), widely used for streaming, podcasting, and VO.
   - $129
   - ''
   - IR available not available
 - - '33'
-  - img/placeholder.jpg
+  - img/akg214.png
   - AKG C214
   - '2008'
   - AKG
   - Austria
   - Affordable large-diaphragm condenser based on the C414, offering a clear cardioid
-    response for vocals and instruments in project studios. More on <a style="color:rgb(43,
-    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+    response for vocals and instruments in project studios.
   - $399
   - ''
   - IR available not available
 - - '79'
-  - img/placeholder.jpg
+  - img/telefunkenM80.png
   - Telefunken M80
   - '2008'
   - Telefunken
@@ -361,7 +355,7 @@
   - ''
   - IR available not available
 - - '34'
-  - img/placeholder.jpg
+  - img/akgd5.png
   - AKG D5
   - '2007'
   - AKG
@@ -373,7 +367,7 @@
   - ''
   - IR not available
 - - '51'
-  - img/placeholder.jpg
+  - img/heilpr40.png
   - Heil PR40
   - '2006'
   - Heil Sound
@@ -386,7 +380,7 @@
   - ''
   - IR available not available
 - - '46'
-  - img/placeholder.jpg
+  - img/bluesnowball.png
   - Blue Snowball
   - '2005'
   - Blue Microphones
@@ -398,7 +392,7 @@
   - ''
   - IR not available
 - - '48'
-  - img/placeholder.jpg
+  - img/bluebird.png
   - Blue Bluebird
   - '2005'
   - Blue Microphones
@@ -410,7 +404,7 @@
   - ''
   - IR not available
 - - '14'
-  - img/placeholder.jpg
+  - img/shureksm44.png
   - Shure KSM44
   - '2004'
   - Shure
@@ -422,7 +416,7 @@
   - ''
   - IR not available
 - - '26'
-  - img/placeholder.jpg
+  - img/sennheiser3935.png
   - Sennheiser e 935
   - '2004'
   - Sennheiser
@@ -434,7 +428,7 @@
   - ''
   - IR not available
 - - '35'
-  - img/placeholder.jpg
+  - img/audioTechnicaA2020.png
   - Audio-Technica AT2020
   - '2004'
   - Audio-Technica
@@ -446,7 +440,7 @@
   - ''
   - IR available not available
 - - '37'
-  - img/placeholder.jpg
+  - img/audioTechnicaA4040.png
   - Audio-Technica AT4040
   - '2004'
   - Audio-Technica
@@ -458,7 +452,7 @@
   - ''
   - IR available not available
 - - '42'
-  - img/placeholder.jpg
+  - img/rodeVideoMic.png
   - "R\xD8DE VideoMic"
   - '2004'
   - "R\xD8DE"
@@ -470,19 +464,18 @@
   - ''
   - IR not available
 - - '39'
-  - img/placeholder.jpg
+  - img/rodeNT1A.png
   - "R\xD8DE NT1-A"
   - '2003'
   - "R\xD8DE"
   - Australia
   - Extremely low-noise cardioid condenser microphone known for its clarity and detailed
-    sound on vocals and acoustic instruments. More on <a style="color:rgb(43, 0, 136)"
-    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+    sound on vocals and acoustic instruments. This mic is extremely popular in home studios.
   - $229
   - ''
   - IR available not available
 - - '47'
-  - img/placeholder.jpg
+  - img/bluebottle.png
   - Blue Bottle
   - '2003'
   - Blue Microphones
@@ -495,7 +488,7 @@
   - ''
   - IR available not available
 - - '95'
-  - img/placeholder.jpg
+  - img/behringerb2.png
   - Behringer B-2 Pro
   - '2003'
   - Behringer
@@ -508,7 +501,7 @@
   - ''
   - IR available not available
 - - '12'
-  - img/placeholder.jpg
+  - img/shurebeta52.png
   - Shure Beta 52A
   - '2002'
   - Shure
@@ -520,7 +513,7 @@
   - ''
   - IR not available
 - - '41'
-  - img/placeholder.jpg
+  - img/rhoeent5.png
   - "R\xD8DE NT5"
   - '2002'
   - "R\xD8DE"
@@ -532,7 +525,7 @@
   - ''
   - IR available not available
 - - '63'
-  - img/placeholder.jpg
+  - img/se220.png
   - sE Electronics sE2200
   - '2002'
   - sE Electronics
@@ -544,7 +537,7 @@
   - ''
   - IR available not available
 - - '81'
-  - img/placeholder.jpg
+  - img/aear84.png
   - AEA R84
   - '2002'
   - AEA
@@ -557,7 +550,7 @@
   - ''
   - IR available not available
 - - '9'
-  - img/placeholder.jpg
+  - img/shuresm7b.png
   - Shure SM7B
   - '2001'
   - Shure
@@ -569,7 +562,7 @@
   - ''
   - IR available not available
 - - '27'
-  - img/placeholder.jpg
+  - img/sennheisere609.png
   - Sennheiser e 609
   - '2001'
   - Sennheiser
@@ -581,7 +574,7 @@
   - ''
   - IR available not available
 - - '40'
-  - img/placeholder.jpg
+  - img/rodeNTK.png
   - "R\xD8DE NTK"
   - '2001'
   - "R\xD8DE"
@@ -1115,7 +1108,7 @@
   - ''
   - IR not available
 - - '29'
-  - img/akgC12.png
+  - img/akgc12.png
   - AKG C12
   - '1953'
   - AKG
