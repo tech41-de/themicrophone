@@ -1,0 +1,961 @@
+
+- - '7'
+  - img/placeholder.jpg
+  - “Shure SM58”
+  - '1966'
+  - Shure
+  - USA
+  - “Iconic cardioid dynamic vocal microphone known for its durability and clarity, ideal for live vocals and speech.”
+  - $99”
+  - "Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -54.5 dBV/Pa; Impedance: 150 Ω"
+  - "Dynamic Cardioid, Sensitivity \u221259 dBV/Pa (1.12 mV), Impedance 150 ohms, Weight 765.4 grams"
+  
+img: img/placeholder.jpg
+name: “Shure SM58”
+year: 1966
+brand: “Shure”
+origin: “USA”
+description: “Iconic cardioid dynamic vocal microphone known for its durability and clarity, ideal for live vocals and speech.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -54.5 dBV/Pa; Impedance: 150 Ω”
+ir: “IR not available”
+	•	id: 8
+img: img/placeholder.jpg
+name: “Shure SM7B”
+year: 2001
+brand: “Shure”
+origin: “USA”
+description: “Renowned broadcast dynamic microphone with a smooth, full-range response, popular for radio, podcasts, and rock vocals.”
+price: “$399”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -59 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 9
+img: img/placeholder.jpg
+name: “Shure Beta 58A”
+year: 1996
+brand: “Shure”
+origin: “USA”
+description: “High-output supercardioid dynamic vocal mic offering superior gain-before-feedback and crisp sound for live performances.”
+price: “$159”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–16 kHz; Polar Pattern: Supercardioid; Sensitivity: -51 dBV/Pa; Impedance: 150 Ω”
+ir: “IR not available”
+	•	id: 10
+img: img/placeholder.jpg
+name: “Shure Beta 87A”
+year: 1998
+brand: “Shure”
+origin: “USA”
+description: “Condenser vocal microphone delivering studio-quality detail on stage, with a smooth top end and tight supercardioid pattern.”
+price: “$249”
+specs: “Type: Condenser; Frequency Response: 50 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -52 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 11
+img: img/placeholder.jpg
+name: “Shure Beta 52A”
+year: 2002
+brand: “Shure”
+origin: “USA”
+description: “Tailored dynamic microphone for kick drums and bass instruments, capturing deep low end punch and attack.”
+price: “$189”
+specs: “Type: Dynamic; Frequency Response: 20 Hz–10 kHz; Polar Pattern: Supercardioid; Sensitivity: -64 dBV/Pa; Impedance: 45 Ω”
+ir: “IR not available”
+	•	id: 12
+img: img/placeholder.jpg
+name: “Shure KSM32”
+year: 1999
+brand: “Shure”
+origin: “USA”
+description: “Transparent large-diaphragm condenser mic ideal for vocals and instruments, known for its natural sound and durability.”
+price: “$549”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -36 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 13
+img: img/placeholder.jpg
+name: “Shure KSM44”
+year: 2004
+brand: “Shure”
+origin: “USA”
+description: “Premium multi-pattern condenser microphone offering selectable polar patterns and low noise for versatile studio use.”
+price: “$999”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -32 dBV/Pa; Impedance: 50 Ω”
+ir: “IR not available”
+	•	id: 14
+img: img/placeholder.jpg
+name: “Shure MV7”
+year: 2020
+brand: “Shure”
+origin: “USA”
+description: “Hybrid USB/XLR dynamic microphone inspired by the SM7B, designed for podcasters and streamers seeking pro-quality sound.”
+price: “$249”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–16 kHz; Polar Pattern: Cardioid; Sensitivity: -55 dBV/Pa; Impedance: 250 Ω”
+ir: “IR available upon request”
+	•	id: 15
+img: img/placeholder.jpg
+name: “Shure 55SH Series II”
+year: 1939
+brand: “Shure”
+origin: “USA”
+description: “Classic ‘Elvis’ cardioid dynamic microphone with vintage looks and sound, often used for stage performances and retro appeal.”
+price: “$179”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -58 dBV/Pa; Impedance: 150 Ω”
+ir: “IR not available”
+	•	id: 16
+img: img/placeholder.jpg
+name: “Neumann U47”
+year: 1949
+brand: “Neumann”
+origin: “Germany”
+description: “Legendary large-diaphragm tube condenser famous for its rich, warm sound on vocals and orchestras, a studio standard of the 1950s.”
+price: “$8000”
+specs: “Type: Condenser (Tube); Frequency Response: 40 Hz–16 kHz; Polar Pattern: Cardioid/Omni; Sensitivity: -37 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 17
+img: img/placeholder.jpg
+name: “Neumann U67”
+year: 1960
+brand: “Neumann”
+origin: “Germany”
+description: “Vintage multi-pattern tube condenser mic known for its smooth, silky tone, a workhorse for vocals and instruments in the 1960s.”
+price: “$7000”
+specs: “Type: Condenser (Tube); Frequency Response: 40 Hz–16 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -39 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 18
+img: img/placeholder.jpg
+name: “Neumann U87”
+year: 1967
+brand: “Neumann”
+origin: “Germany”
+description: “Iconic studio condenser microphone with a balanced, clear sound and selectable polar patterns, ubiquitous in professional studios.”
+price: “$3200”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -31 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 19
+img: img/placeholder.jpg
+name: “Neumann M49”
+year: 1951
+brand: “Neumann”
+origin: “Germany”
+description: “Classic remote-controlled multi-pattern tube condenser mic with a lush, smooth character, prized for vocal and orchestral recording.”
+price: “$9000”
+specs: “Type: Condenser (Tube); Frequency Response: 30 Hz–18 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -37 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 20
+img: img/placeholder.jpg
+name: “Neumann TLM 103”
+year: 1997
+brand: “Neumann”
+origin: “Germany”
+description: “Modern large-diaphragm cardioid condenser offering extremely low self-noise and a presence boost, popular for vocals and voice-over.”
+price: “$1100”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -33 dBV/Pa; Impedance: 50 Ω”
+ir: “IR available upon request”
+	•	id: 21
+img: img/placeholder.jpg
+name: “Neumann KM184”
+year: 1993
+brand: “Neumann”
+origin: “Germany”
+description: “Compact small-diaphragm cardioid condenser ideal for acoustic instruments and overheads, known for its natural tonal reproduction.”
+price: “$850”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -36 dBV/Pa; Impedance: 50 Ω”
+ir: “IR not available”
+	•	id: 22
+img: img/placeholder.jpg
+name: “Sennheiser MD 421”
+year: 1960
+brand: “Sennheiser”
+origin: “Germany”
+description: “Versatile cardioid dynamic microphone with a full-bodied sound, commonly used on drums, guitar cabinets, and broadcast vocals.”
+price: “$379”
+specs: “Type: Dynamic; Frequency Response: 30 Hz–17 kHz; Polar Pattern: Cardioid; Sensitivity: -54 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 23
+img: img/placeholder.jpg
+name: “Sennheiser MD 441”
+year: 1971
+brand: “Sennheiser”
+origin: “Germany”
+description: “High-end supercardioid dynamic microphone with a condenser-like clarity, excellent for vocals, horns, and detailed instrument capture.”
+price: “$899”
+specs: “Type: Dynamic; Frequency Response: 30 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -51 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 24
+img: img/placeholder.jpg
+name: “Sennheiser e 835”
+year: 1998
+brand: “Sennheiser”
+origin: “Germany”
+description: “Affordable cardioid dynamic vocal mic designed for live performance, delivering solid sound and feedback rejection on stage.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 40 Hz–16 kHz; Polar Pattern: Cardioid; Sensitivity: -51 dBV/Pa; Impedance: 350 Ω”
+ir: “IR available upon request”
+	•	id: 25
+img: img/placeholder.jpg
+name: “Sennheiser e 935”
+year: 2004
+brand: “Sennheiser”
+origin: “Germany”
+description: “Durable cardioid dynamic vocal microphone providing clear, natural sound for lead vocals, with enhanced high-mid presence for cut-through.”
+price: “$179”
+specs: “Type: Dynamic; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -51 dBV/Pa; Impedance: 350 Ω”
+ir: “IR not available”
+	•	id: 26
+img: img/placeholder.jpg
+name: “Sennheiser e 609”
+year: 2001
+brand: “Sennheiser”
+origin: “Germany”
+description: “Flat-profile supercardioid dynamic mic designed to hang in front of guitar cabinets, capturing a bright, aggressive tone with ease.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 40 Hz–15 kHz; Polar Pattern: Supercardioid; Sensitivity: -56 dBV/Pa; Impedance: 350 Ω”
+ir: “IR available upon request”
+	•	id: 27
+img: img/placeholder.jpg
+name: “Sennheiser MKH 416”
+year: 1975
+brand: “Sennheiser”
+origin: “Germany”
+description: “Industry-standard short shotgun microphone for film and voice-over, offering a focused pickup and rich, crisp voice reproduction.”
+price: “$999”
+specs: “Type: Condenser (RF); Frequency Response: 40 Hz–20 kHz; Polar Pattern: Supercardioid/Lobar; Sensitivity: -32 dBV/Pa; Impedance: 25 Ω”
+ir: “IR not available”
+	•	id: 28
+img: img/placeholder.jpg
+name: “AKG C12”
+year: 1953
+brand: “AKG”
+origin: “Austria”
+description: “Vintage tube multi-pattern condenser known for its airy top end and musical warmth, ancestor of many modern high-end studio mics.”
+price: “$10000”
+specs: “Type: Condenser (Tube); Frequency Response: 30 Hz–18 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 29
+img: img/placeholder.jpg
+name: “AKG C414”
+year: 1971
+brand: “AKG”
+origin: “Austria”
+description: “Famous multi-pattern condenser mic with multiple revisions, valued for its versatility on vocals, drum overheads, pianos, and more.”
+price: “$1099”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -32 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 30
+img: img/placeholder.jpg
+name: “AKG C451”
+year: 1969
+brand: “AKG”
+origin: “Austria”
+description: “Small-diaphragm condenser microphone providing crisp, detailed reproduction of cymbals, acoustic guitars, and percussion.”
+price: “$499”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -41 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 31
+img: img/placeholder.jpg
+name: “AKG D112”
+year: 1986
+brand: “AKG”
+origin: “Austria”
+description: “Egg-shaped cardioid dynamic microphone tailored for kick drums and bass cabinets, delivering a tight low end and punchy attack.”
+price: “$199”
+specs: “Type: Dynamic; Frequency Response: 20 Hz–17 kHz; Polar Pattern: Cardioid; Sensitivity: -55 dBV/Pa; Impedance: 210 Ω”
+ir: “IR not available”
+	•	id: 32
+img: img/placeholder.jpg
+name: “AKG C214”
+year: 2008
+brand: “AKG”
+origin: “Austria”
+description: “Affordable large-diaphragm condenser based on the C414, offering a clear cardioid response for vocals and instruments in project studios.”
+price: “$399”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 33
+img: img/placeholder.jpg
+name: “AKG D5”
+year: 2007
+brand: “AKG”
+origin: “Austria”
+description: “Rugged supercardioid dynamic vocal mic with a crisp sound and high feedback rejection, engineered for lead vocals on loud stages.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 70 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -52 dBV/Pa; Impedance: 600 Ω”
+ir: “IR not available”
+	•	id: 34
+img: img/placeholder.jpg
+name: “Audio-Technica AT2020”
+year: 2004
+brand: “Audio-Technica”
+origin: “Japan”
+description: “Popular entry-level cardioid condenser microphone offering balanced sound and reliability for home studio vocals and instruments.”
+price: “$99”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -37 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 35
+img: img/placeholder.jpg
+name: “Audio-Technica AT4050”
+year: 1995
+brand: “Audio-Technica”
+origin: “Japan”
+description: “Multipattern studio condenser known for its neutral, transparent sound, suitable for a wide range of sources from vocals to overheads.”
+price: “$699”
+specs: “Type: Condenser; Frequency Response: 20 Hz–18 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -36 dBV/Pa; Impedance: 100 Ω”
+ir: “IR not available”
+	•	id: 36
+img: img/placeholder.jpg
+name: “Audio-Technica AT4040”
+year: 2004
+brand: “Audio-Technica”
+origin: “Japan”
+description: “General-purpose large-diaphragm condenser offering a smooth frequency response and high SPL handling for studio vocals and instruments.”
+price: “$299”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -32 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 37
+img: img/placeholder.jpg
+name: “Audio-Technica AT2020USB+”
+year: 2012
+brand: “Audio-Technica”
+origin: “Japan”
+description: “USB version of the AT2020 condenser mic, providing plug-and-play connectivity and quality sound for home recording and streaming.”
+price: “$149”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -37 dBV/Pa; Impedance: 100 Ω”
+ir: “IR not available”
+	•	id: 38
+img: img/placeholder.jpg
+name: “RØDE NT1-A”
+year: 2003
+brand: “RØDE”
+origin: “Australia”
+description: “Extremely low-noise cardioid condenser microphone known for its clarity and detailed sound on vocals and acoustic instruments.”
+price: “$229”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -32 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 39
+img: img/placeholder.jpg
+name: “RØDE NTK”
+year: 2001
+brand: “RØDE”
+origin: “Australia”
+description: “Valve (tube) condenser microphone delivering warm, full-bodied tone for vocals and instruments, with classic tube harmonics.”
+price: “$529”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -38 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 40
+img: img/placeholder.jpg
+name: “RØDE NT5”
+year: 2002
+brand: “RØDE”
+origin: “Australia”
+description: “Matched pair small-diaphragm condensers ideal for stereo recording of drum overheads, acoustic instruments, and live performances.”
+price: “$429 (pair)”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -38 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 41
+img: img/placeholder.jpg
+name: “RØDE VideoMic”
+year: 2004
+brand: “RØDE”
+origin: “Australia”
+description: “On-camera shotgun microphone designed for DSLR and camcorder use, capturing directional audio for video with clarity.”
+price: “$149”
+specs: “Type: Condenser; Frequency Response: 40 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -38 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 42
+img: img/placeholder.jpg
+name: “RØDE PodMic”
+year: 2019
+brand: “RØDE”
+origin: “Australia”
+description: “Compact end-address dynamic microphone tailored for podcasting, offering a rich, broadcast-ready vocal sound with internal pop filter.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–13 kHz; Polar Pattern: Cardioid; Sensitivity: -57 dBV/Pa; Impedance: 320 Ω”
+ir: “IR available upon request”
+	•	id: 43
+img: img/placeholder.jpg
+name: “RØDE NT-USB”
+year: 2014
+brand: “RØDE”
+origin: “Australia”
+description: “Convenient USB cardioid condenser mic with built-in headphone monitoring, delivering studio-quality audio for voice-overs and music recording.”
+price: “$169”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -38 dBV/Pa; Impedance: 100 Ω”
+ir: “IR not available”
+	•	id: 44
+img: img/placeholder.jpg
+name: “Blue Yeti”
+year: 2009
+brand: “Blue Microphones”
+origin: “USA”
+description: “Versatile USB microphone with multiple pickup patterns (cardioid, omni, bidirectional, stereo), widely used for streaming, podcasting, and VO.”
+price: “$129”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -37 dBV/Pa; Impedance: 16 Ω”
+ir: “IR available upon request”
+	•	id: 45
+img: img/placeholder.jpg
+name: “Blue Snowball”
+year: 2005
+brand: “Blue Microphones”
+origin: “USA”
+description: “Sphere-shaped dual-capsule USB microphone with cardioid and omni modes, popular for entry-level podcasting, voice chat, and demo recording.”
+price: “$69”
+specs: “Type: Condenser; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Cardioid/Omni; Sensitivity: -40 dBV/Pa; Impedance: 16 Ω”
+ir: “IR not available”
+	•	id: 46
+img: img/placeholder.jpg
+name: “Blue Bottle”
+year: 2003
+brand: “Blue Microphones”
+origin: “USA”
+description: “High-end tube microphone system with interchangeable capsules, revered for its rich, full sound and used in top-tier studios on vocals and instruments.”
+price: “$3999”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern (capsule-dependent); Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 47
+img: img/placeholder.jpg
+name: “Blue Bluebird”
+year: 2005
+brand: “Blue Microphones”
+origin: “USA”
+description: “Cardioid condenser microphone with a bright character and sleek design, suitable for vocals, guitars, and percussion in home and project studios.”
+price: “$299”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -33 dBV/Pa; Impedance: 50 Ω”
+ir: “IR not available”
+	•	id: 48
+img: img/placeholder.jpg
+name: “Electro-Voice RE20”
+year: 1968
+brand: “Electro-Voice”
+origin: “USA”
+description: “Classic broadcast cardioid dynamic microphone with Variable-D design to minimize proximity effect, used for radio, podcasting, and kick drums.”
+price: “$449”
+specs: “Type: Dynamic; Frequency Response: 45 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -56 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 49
+img: img/placeholder.jpg
+name: “Electro-Voice 635A”
+year: 1965
+brand: “Electro-Voice”
+origin: “USA”
+description: “Sturdy omnidirectional dynamic "reporter’s mic" famed for its durability and clear speech reproduction in broadcast and field interviews.”
+price: “$129”
+specs: “Type: Dynamic; Frequency Response: 80 Hz–13 kHz; Polar Pattern: Omnidirectional; Sensitivity: -57 dBV/Pa; Impedance: 150 Ω”
+ir: “IR not available”
+	•	id: 50
+img: img/placeholder.jpg
+name: “Heil PR40”
+year: 2006
+brand: “Heil Sound”
+origin: “USA”
+description: “Large-diaphragm dynamic microphone with extended frequency response, providing a warm yet articulate sound ideal for podcast and broadcast voices.”
+price: “$329”
+specs: “Type: Dynamic; Frequency Response: 28 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -54 dBV/Pa; Impedance: 600 Ω”
+ir: “IR available upon request”
+	•	id: 51
+img: img/placeholder.jpg
+name: “Beyerdynamic M 160”
+year: 1957
+brand: “Beyerdynamic”
+origin: “Germany”
+description: “Double-ribbon hypercardioid microphone known for its smooth treble and tight pickup, often used on string sections, guitar amps, and drums (overheads).”
+price: “$699”
+specs: “Type: Ribbon; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Hypercardioid; Sensitivity: -60 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 52
+img: img/placeholder.jpg
+name: “Beyerdynamic M 88”
+year: 1962
+brand: “Beyerdynamic”
+origin: “Germany”
+description: “Classic hypercardioid dynamic mic with a wide frequency range, used on bass drums, vocalists, and brass due to its punchy yet balanced response.”
+price: “$399”
+specs: “Type: Dynamic; Frequency Response: 30 Hz–20 kHz; Polar Pattern: Hypercardioid; Sensitivity: -52 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 53
+img: img/placeholder.jpg
+name: “Beyerdynamic M 201”
+year: 1966
+brand: “Beyerdynamic”
+origin: “Germany”
+description: “Small-diaphragm hypercardioid dynamic mic providing detailed, tight capture of snare drums, toms, and acoustic instruments with minimal bleed.”
+price: “$299”
+specs: “Type: Dynamic; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Hypercardioid; Sensitivity: -58 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 54
+img: img/placeholder.jpg
+name: “RCA 44-BX”
+year: 1936
+brand: “RCA”
+origin: “USA”
+description: “Vintage bi-directional ribbon microphone with a rich, smooth tone, famously used in 1940s broadcast and studio recordings for vocals and instruments.”
+price: “$3000 (used)”
+specs: “Type: Ribbon; Frequency Response: 30 Hz–15 kHz; Polar Pattern: Bidirectional; Sensitivity: -55 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 55
+img: img/placeholder.jpg
+name: “RCA 77-DX”
+year: 1954
+brand: “RCA”
+origin: “USA”
+description: “Multiplate ribbon microphone capable of various pickup patterns (via mechanical switch), known for its classic warm sound in broadcast and music studios.”
+price: “$2500 (used)”
+specs: “Type: Ribbon; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -52 dBV/Pa; Impedance: 250 Ω”
+ir: “IR not available”
+	•	id: 56
+img: img/placeholder.jpg
+name: “Coles 4038”
+year: 1953
+brand: “Coles”
+origin: “UK”
+description: “British bi-directional ribbon microphone designed by the BBC, revered for its smooth, natural sound on drum overheads, brass, and vocals.”
+price: “$1300”
+specs: “Type: Ribbon; Frequency Response: 30 Hz–15 kHz; Polar Pattern: Bidirectional; Sensitivity: -65 dBV/Pa; Impedance: 300 Ω”
+ir: “IR available upon request”
+	•	id: 57
+img: img/placeholder.jpg
+name: “Royer R-121”
+year: 1998
+brand: “Royer Labs”
+origin: “USA”
+description: “Modern ribbon microphone offering a balanced frequency response and high SPL handling, a go-to for electric guitar amps and brass instruments.”
+price: “$1295”
+specs: “Type: Ribbon; Frequency Response: 30 Hz–15 kHz; Polar Pattern: Bidirectional; Sensitivity: -54 dBV/Pa; Impedance: 300 Ω”
+ir: “IR not available”
+	•	id: 58
+img: img/placeholder.jpg
+name: “Shure KSM313”
+year: 2010
+brand: “Shure”
+origin: “USA”
+description: “Bi-directional ribbon microphone with a dual-voice design (bright front, dark rear), providing versatility for guitar amps and vocals with robust build quality.”
+price: “$1299”
+specs: “Type: Ribbon; Frequency Response: 30 Hz–15 kHz; Polar Pattern: Bidirectional; Sensitivity: -54.5 dBV/Pa; Impedance: 270 Ω”
+ir: “IR available upon request”
+	•	id: 59
+img: img/placeholder.jpg
+name: “Aston Origin”
+year: 2016
+brand: “Aston Microphones”
+origin: “UK”
+description: “Affordable large-diaphragm condenser with a sleek stainless mesh design, delivering a crisp, open sound on vocals and acoustic instruments.”
+price: “$299”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -32 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 60
+img: img/placeholder.jpg
+name: “Aston Spirit”
+year: 2016
+brand: “Aston Microphones”
+origin: “UK”
+description: “Multi-pattern condenser microphone offering selectable cardioid, omni, and figure-8 patterns, known for its transparent sound and build quality.”
+price: “$449”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -32 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 61
+img: img/placeholder.jpg
+name: “Aston Stealth”
+year: 2019
+brand: “Aston Microphones”
+origin: “UK”
+description: “Innovative active dynamic microphone with four voicing settings and both passive and phantom-powered modes, excelled in broadcast and stage use.”
+price: “$379”
+specs: “Type: Dynamic; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -16 dBV/Pa (active mode); Impedance: 350 Ω”
+ir: “IR not available”
+	•	id: 62
+img: img/placeholder.jpg
+name: “sE Electronics sE2200”
+year: 2002
+brand: “sE Electronics”
+origin: “UK/China”
+description: “Renowned cardioid condenser microphone (used by notable artists) offering a balanced, classic sound on vocals and instruments with low self-noise.”
+price: “$299”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -32.5 dBV/Pa; Impedance: 50 Ω”
+ir: “IR available upon request”
+	•	id: 63
+img: img/placeholder.jpg
+name: “sE Electronics V7”
+year: 2017
+brand: “sE Electronics”
+origin: “China”
+description: “Road-worthy supercardioid dynamic vocal mic featuring a specialized aluminum voice coil for crisp, lively sound and excellent feedback rejection.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–16 kHz; Polar Pattern: Supercardioid; Sensitivity: -54 dBV/Pa; Impedance: 300 Ω”
+ir: “IR not available”
+	•	id: 64
+img: img/placeholder.jpg
+name: “Lewitt LCT 440 PURE”
+year: 2017
+brand: “Lewitt”
+origin: “Austria”
+description: “Modern cardioid condenser mic with a very low noise floor and a clean, detailed sound, suitable for vocals, instruments, and ASMR recording.”
+price: “$269”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -31 dBV/Pa; Impedance: 110 Ω”
+ir: “IR available upon request”
+	•	id: 65
+img: img/placeholder.jpg
+name: “Lewitt LCT 940”
+year: 2013
+brand: “Lewitt”
+origin: “Austria”
+description: “High-end studio microphone blending a FET and tube circuit (controllable mix) with multi-pattern capability, offering extreme flexibility in tonal character.”
+price: “$1699”
+specs: “Type: Condenser (Tube/FET); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -33 dBV/Pa; Impedance: 50 Ω”
+ir: “IR not available”
+	•	id: 66
+img: img/placeholder.jpg
+name: “DPA 4011”
+year: 1986
+brand: “DPA”
+origin: “Denmark”
+description: “Reference-grade cardioid small-diaphragm condenser microphone providing natural, accurate sound, widely used in classical music recording and as instrument spot mic.”
+price: “$2100”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -40 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 67
+img: img/placeholder.jpg
+name: “DPA 4060”
+year: 1996
+brand: “DPA”
+origin: “Denmark”
+description: “Tiny omnidirectional lavalier microphone with very low noise and flat response, extensively used in theater, film, and hidden on instruments.”
+price: “$450”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Omnidirectional; Sensitivity: -35 dBV/Pa; Impedance: 30 Ω”
+ir: “IR not available”
+	•	id: 68
+img: img/placeholder.jpg
+name: “Schoeps CMC6 MK4”
+year: 1973
+brand: “Schoeps”
+origin: “Germany”
+description: “High-end modular small-diaphragm cardioid condenser (Colette series) prized for its exceptionally natural and transparent sound in classical and location recording.”
+price: “$1700”
+specs: “Type: Condenser; Frequency Response: 40 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -36 dBV/Pa; Impedance: 35 Ω”
+ir: “IR available upon request”
+	•	id: 69
+img: img/placeholder.jpg
+name: “Oktava MK-012”
+year: 1990
+brand: “Oktava”
+origin: “Russia”
+description: “Modular small-diaphragm condenser (often sold with multiple capsules) known for its warm, mellow sound, popular for drum overheads and acoustic instruments (often modified for enhanced performance).”
+price: “$200 (with capsules)”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid (interchangeable); Sensitivity: -40 dBV/Pa; Impedance: 300 Ω”
+ir: “IR not available”
+	•	id: 70
+img: img/placeholder.jpg
+name: “MXL 990”
+year: 2001
+brand: “MXL”
+origin: “USA”
+description: “Budget cardioid condenser microphone that introduced many home studios to large-diaphragm mic sound, offering a bright tone suited for vocals and acoustic guitars.”
+price: “$99”
+specs: “Type: Condenser; Frequency Response: 30 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -36 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 71
+img: img/placeholder.jpg
+name: “MXL R144”
+year: 2010
+brand: “MXL”
+origin: “USA”
+description: “Entry-level bidirectional ribbon microphone providing a smooth, warm tone for recording guitar cabinets, vocals, and room ambiance at an affordable price.”
+price: “$99”
+specs: “Type: Ribbon; Frequency Response: 20 Hz–17 kHz; Polar Pattern: Bidirectional; Sensitivity: -56 dBV/Pa; Impedance: 250 Ω”
+ir: “IR not available”
+	•	id: 72
+img: img/placeholder.jpg
+name: “Samson C01”
+year: 2001
+brand: “Samson”
+origin: “USA”
+description: “One of the early affordable large-diaphragm condensers, delivering a clear, if slightly bright, sound for vocals and instruments in project studios.”
+price: “$79”
+specs: “Type: Condenser; Frequency Response: 20 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -33 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 73
+img: img/placeholder.jpg
+name: “Samson Q2U”
+year: 2010
+brand: “Samson”
+origin: “USA”
+description: “Handheld dynamic microphone with both XLR and USB outputs, popular for beginners in podcasting for its versatility and decent sound quality.”
+price: “$59”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -54 dBV/Pa; Impedance: 150 Ω”
+ir: “IR not available”
+	•	id: 74
+img: img/placeholder.jpg
+name: “Apogee MiC”
+year: 2011
+brand: “Apogee”
+origin: “USA”
+description: “Compact studio-quality cardioid condenser that connects directly to iOS devices and computers, ideal for mobile recording of vocals and acoustic instruments.”
+price: “$229”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -36 dBV/Pa; Impedance: 300 Ω”
+ir: “IR available upon request”
+	•	id: 75
+img: img/placeholder.jpg
+name: “Sony C-800G”
+year: 1992
+brand: “Sony”
+origin: “Japan”
+description: “Ultra high-end tube condenser microphone with built-in cooling system, revered for its crisp, forward vocal sound in pop and R&B productions (a go-to for many top artists).”
+price: “$10000”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -30 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 76
+img: img/placeholder.jpg
+name: “Sony C-37A”
+year: 1958
+brand: “Sony”
+origin: “Japan”
+description: “Vintage tube condenser microphone with switchable polar patterns (uni/omni), known for its smooth midrange and often used on vocals in the 1950s–60s.”
+price: “$3000 (used)”
+specs: “Type: Condenser (Tube); Frequency Response: 40 Hz–16 kHz; Polar Pattern: Cardioid/Omni; Sensitivity: -43 dBV/Pa; Impedance: 50 Ω”
+ir: “IR available upon request”
+	•	id: 77
+img: img/placeholder.jpg
+name: “Telefunken ELA M 251E”
+year: 1959
+brand: “Telefunken”
+origin: “Germany”
+description: “One of the most sought-after tube condenser microphones ever made, offering a silky high end and rich midrange; vintage originals are rare and costly, with modern reissues used on elite vocal recordings.”
+price: “$10000”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 78
+img: img/placeholder.jpg
+name: “Telefunken M80”
+year: 2008
+brand: “Telefunken”
+origin: “USA”
+description: “Live vocal dynamic microphone with a condenser-like high-end response and tight supercardioid pattern, bringing studio-quality articulation to the stage.”
+price: “$249”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–18 kHz; Polar Pattern: Supercardioid; Sensitivity: -56 dBV/Pa; Impedance: 325 Ω”
+ir: “IR available upon request”
+	•	id: 79
+img: img/placeholder.jpg
+name: “Telefunken CU-29 Copperhead”
+year: 2011
+brand: “Telefunken”
+origin: “USA”
+description: “Affordable high-fidelity tube condenser microphone delivering a warm, balanced tone on vocals and acoustic instruments, offering an entry into Telefunken’s classic sound.”
+price: “$1295”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -37 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 80
+img: img/placeholder.jpg
+name: “AEA R84”
+year: 2002
+brand: “AEA”
+origin: “USA”
+description: “Large ribbon microphone with a classic tonality—rich lows and smooth highs—often used for vocals, strings, and brass, and capable of handling high SPL sources.”
+price: “$1099”
+specs: “Type: Ribbon; Frequency Response: 20 Hz–18 kHz; Polar Pattern: Bidirectional; Sensitivity: -52 dBV/Pa; Impedance: 270 Ω”
+ir: “IR available upon request”
+	•	id: 81
+img: img/placeholder.jpg
+name: “Milab VIP-50”
+year: 1984
+brand: “Milab”
+origin: “Sweden”
+description: “Multi-pattern FET condenser with a unique rectangular capsule, famous for its use on iconic recordings and valued for its clear, detailed sound on vocals.”
+price: “$2000”
+specs: “Type: Condenser; Frequency Response: 30 Hz–18 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -37 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 82
+img: img/placeholder.jpg
+name: “Crown PCC-160”
+year: 1986
+brand: “Crown (AKG)”
+origin: “USA”
+description: “Phase Coherent Cardioid boundary microphone used on stage floors (Broadway, conferences) to pick up dialogue and stage performances with clarity across a wide area.”
+price: “$350”
+specs: “Type: Condenser; Frequency Response: 50 Hz–18 kHz; Polar Pattern: Half-Cardioid; Sensitivity: -66 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 83
+img: img/placeholder.jpg
+name: “RØDE NT4”
+year: 2001
+brand: “RØDE”
+origin: “Australia”
+description: “Fixed X/Y stereo condenser microphone (two capsules at 90°) simplifying stereo recording of ensembles, choirs, or environmental sound with a single unit.”
+price: “$529”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid (X/Y Stereo); Sensitivity: -38 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 84
+img: img/placeholder.jpg
+name: “Earthworks SR314”
+year: 2019
+brand: “Earthworks”
+origin: “USA”
+description: “Stainless steel handheld condenser microphone offering extended frequency response and fast transient response, delivering studio-quality live vocal sound.”
+price: “$699”
+specs: “Type: Condenser; Frequency Response: 20 Hz–30 kHz; Polar Pattern: Cardioid; Sensitivity: -40 dBV/Pa; Impedance: 65 Ω”
+ir: “IR available upon request”
+	•	id: 85
+img: img/placeholder.jpg
+name: “HyperX QuadCast”
+year: 2019
+brand: “HyperX”
+origin: “USA”
+description: “Stylish USB condenser microphone with selectable polar patterns and internal shock mount, popular among gamers and streamers for its quality and red LED aesthetic.”
+price: “$139”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -36 dBV/Pa; Impedance: 16 Ω”
+ir: “IR not available”
+	•	id: 86
+img: img/placeholder.jpg
+name: “AKG Lyra”
+year: 2019
+brand: “AKG”
+origin: “Austria”
+description: “Retro-styled USB condenser microphone with four-capsule array enabling multiple pickup patterns, offering 24-bit/192kHz audio for content creators and musicians.”
+price: “$149”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -35 dBV/Pa; Impedance: 16 Ω”
+ir: “IR available upon request”
+	•	id: 87
+img: img/placeholder.jpg
+name: “Townsend Labs Sphere L22”
+year: 2017
+brand: “Townsend Labs (UA)”
+origin: “USA”
+description: “Dual-capsule condenser modeling microphone system that, combined with software, emulates a wide range of classic microphones with remarkable accuracy.”
+price: “$1499”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern (modeling); Sensitivity: -33 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 88
+img: img/placeholder.jpg
+name: “Deity S-Mic 2”
+year: 2018
+brand: “Deity”
+origin: “China”
+description: “Short shotgun microphone offering low self-noise and a natural tone, providing an affordable alternative for indie filmmakers and location sound recordists.”
+price: “$349”
+specs: “Type: Condenser; Frequency Response: 50 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -32 dBV/Pa; Impedance: 75 Ω”
+ir: “IR available upon request”
+	•	id: 89
+img: img/placeholder.jpg
+name: “SoundField ST250”
+year: 1995
+brand: “SoundField (Calrec)”
+origin: “UK”
+description: “Portable ambisonic microphone system capturing a full 360° sound field (tetrahedral capsule array), used for immersive audio recordings and flexible post-production mixing.”
+price: “$5000”
+specs: “Type: Condenser (Ambisonic); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Capsule (Tetrahedral); Sensitivity: -30 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 90
+img: img/placeholder.jpg
+name: “CAD E100S”
+year: 2010
+brand: “CAD”
+origin: “USA”
+description: “Supercardioid large-diaphragm condenser microphone boasting an extremely low self-noise (3.7 dBA) and high sensitivity, excellent for detailed vocals and quiet sources.”
+price: “$599”
+specs: “Type: Condenser; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Supercardioid; Sensitivity: -30 dBV/Pa; Impedance: 85 Ω”
+ir: “IR available upon request”
+	•	id: 91
+img: img/placeholder.jpg
+name: “Shure Beta 91A”
+year: 2010
+brand: “Shure”
+origin: “USA”
+description: “Boundary condenser microphone primarily used inside kick drums and on piano soundboards, capturing deep lows and attack without stand mounting.”
+price: “$239”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Half-Cardioid; Sensitivity: -48 dBV/Pa; Impedance: 146 Ω”
+ir: “IR not available”
+	•	id: 92
+img: img/placeholder.jpg
+name: “Microtech Gefell M 930”
+year: 2000
+brand: “Microtech Gefell”
+origin: “Germany”
+description: “Compact large-diaphragm cardioid condenser mic made by Neumann’s sister company, offering pristine audio quality with low self-noise, favored in voice-over and music studios.”
+price: “$1300”
+specs: “Type: Condenser; Frequency Response: 40 Hz–18 kHz; Polar Pattern: Cardioid; Sensitivity: -34 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 93
+img: img/placeholder.jpg
+name: “Audio-Technica BP40”
+year: 2015
+brand: “Audio-Technica”
+origin: “Japan”
+description: “Broadcast large-diaphragm dynamic microphone delivering a robust, warm voice tone with a hypercardioid pattern, designed to compete with industry-standard broadcast mics.”
+price: “$349”
+specs: “Type: Dynamic; Frequency Response: 50 Hz–16 kHz; Polar Pattern: Hypercardioid; Sensitivity: -48 dBV/Pa; Impedance: 450 Ω”
+ir: “IR not available”
+	•	id: 94
+img: img/placeholder.jpg
+name: “Behringer B-2 Pro”
+year: 2003
+brand: “Behringer”
+origin: “Germany”
+description: “Dual-diaphragm multi-pattern condenser microphone that offers switchable cardioid, omni, and figure-8 patterns at a budget price, making studio multi-pattern functionality accessible.”
+price: “$149”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -36 dBV/Pa; Impedance: 100 Ω”
+ir: “IR available upon request”
+	•	id: 95
+img: img/placeholder.jpg
+name: “Slate Digital VMS ML-1”
+year: 2016
+brand: “Slate Digital”
+origin: “USA”
+description: “Linear, flat-response large-diaphragm condenser microphone designed to be used with Slate’s modeling software, allowing it to emulate a variety of classic microphones digitally.”
+price: “$799”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR not available”
+	•	id: 96
+img: img/placeholder.jpg
+name: “Neumann KMS 105”
+year: 1999
+brand: “Neumann”
+origin: “Germany”
+description: “Premium handheld supercardioid condenser vocal microphone bringing studio-quality sound to the stage, with excellent rejection and clear, airy highs.”
+price: “$699”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Supercardioid; Sensitivity: -47 dBV/Pa; Impedance: 50 Ω”
+ir: “IR available upon request”
+	•	id: 97
+img: img/placeholder.jpg
+name: “Austrian Audio OC818”
+year: 2019
+brand: “Austrian Audio”
+origin: “Austria”
+description: “Flagship multi-pattern condenser with dual outputs (allowing post-pattern selection) and modern design, known for its high fidelity and flexibility for studio recording.”
+price: “$999”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Multi-Pattern; Sensitivity: -36 dBV/Pa; Impedance: 275 Ω”
+ir: “IR not available”
+	•	id: 98
+img: img/placeholder.jpg
+name: “Soyuz 017 TUBE”
+year: 2016
+brand: “Soyuz”
+origin: “Russia”
+description: “Luxury large-diaphragm tube condenser microphone handcrafted in Russia, offering a lush, vintage-inspired sound and build quality reminiscent of classic Soviet designs.”
+price: “$4000”
+specs: “Type: Condenser (Tube); Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -34 dBV/Pa; Impedance: 200 Ω”
+ir: “IR available upon request”
+	•	id: 99
+img: img/placeholder.jpg
+name: “Neumann KU 100”
+year: 1993
+brand: “Neumann”
+origin: “Germany”
+description: “Binaural dummy head microphone with anatomically shaped ears, capturing immersive 3D stereo sound as heard by human ears, used for binaural recordings and VR audio.”
+price: “$8000”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Stereo (Binaural); Sensitivity: -34 dBV/Pa; Impedance: 50 Ω”
+ir: “IR not available”
+	•	id: 100
+img: img/placeholder.jpg
+name: “Shure SM81”
+year: 1978
+brand: “Shure”
+origin: “USA”
+description: “Staple small-diaphragm cardioid condenser microphone with flat response and high SPL capability, widely used for acoustic instruments, drum overheads, and choral recording.”
+price: “$349”
+specs: “Type: Condenser; Frequency Response: 20 Hz–20 kHz; Polar Pattern: Cardioid; Sensitivity: -45 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
+	•	id: 101
+img: img/placeholder.jpg
+name: “Shure SM57”
+year: 1965
+brand: “Shure”
+origin: “USA”
+description: “Rugged cardioid dynamic instrument microphone prized for its versatility on snare drums, guitar amps, and vocals.”
+price: “$99”
+specs: “Type: Dynamic; Frequency Response: 40 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -56 dBV/Pa; Impedance: 150 Ω”
+ir: “IR available upon request”
