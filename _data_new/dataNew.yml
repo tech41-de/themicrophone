@@ -1,15 +1,4 @@
-
-- - '7'
-  - img/placeholder.jpg
-  - “Shure SM58”
-  - '1966'
-  - Shure
-  - USA
-  - “Iconic cardioid dynamic vocal microphone known for its durability and clarity, ideal for live vocals and speech.”
-  - $99”
-  - "Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -54.5 dBV/Pa; Impedance: 150 Ω"
-  - "Dynamic Cardioid, Sensitivity \u221259 dBV/Pa (1.12 mV), Impedance 150 ohms, Weight 765.4 grams"
-  
+	•	id: 7
 img: img/placeholder.jpg
 name: “Shure SM58”
 year: 1966

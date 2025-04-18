@@ -1,19 +1,956 @@
+- - '15'
+  - img/shure_mv7.png
+  - Shure MV7
+  - '2020'
+  - Shure
+  - USA
+  - Hybrid USB/XLR dynamic microphone inspired by the SM7B, designed for podcasters
+    and streamers seeking pro-quality sound. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $249
+  - ''
+  - IR available not available
+- - '43'
+  - img/rode_podmic_512x512.png
+  - "R\xD8DE PodMic"
+  - '2019'
+  - "R\xD8DE"
+  - Australia
+  - Compact end-address dynamic microphone tailored for podcasting, offering a rich,
+    broadcast-ready vocal sound with internal pop filter. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR available not available
+- - '62'
+  - img/aston.png
+  - Aston Stealth
+  - '2019'
+  - Aston Microphones
+  - UK
+  - Innovative active dynamic microphone with four voicing settings and both passive
+    and phantom-powered modes, excelled in broadcast and stage use. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $379
+  - ''
+  - IR not available
+- - '85'
+  - img/sr314.png
+  - Earthworks SR314
+  - '2019'
+  - Earthworks
+  - USA
+  - Stainless steel handheld condenser microphone offering extended frequency response
+    and fast transient response, delivering studio-quality live vocal sound. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $699
+  - ''
+  - IR available not available
+- - '86'
+  - img/hypercast.png
+  - HyperX QuadCast
+  - '2019'
+  - HyperX
+  - USA
+  - Stylish USB condenser microphone with selectable polar patterns and internal shock
+    mount, popular among gamers and streamers for its quality and red LED aesthetic.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $139
+  - ''
+  - IR not available
+- - '87'
+  - img/akgLyra.png
+  - AKG Lyra
+  - '2019'
+  - AKG
+  - Austria
+  - Retro-styled USB condenser microphone with four-capsule array enabling multiple
+    pickup patterns, offering 24-bit/192kHz audio for content creators and musicians.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $149
+  - ''
+  - IR available not available
+- - '98'
+  - img/audioOcc818.png
+  - Austrian Audio OC818
+  - '2019'
+  - Austrian Audio
+  - Austria
+  - Flagship multi-pattern condenser with dual outputs (allowing post-pattern selection)
+    and modern design, known for its high fidelity and flexibility for studio recording.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $999
+  - ''
+  - IR not available
+- - '89'
+  - img/ditys-mic2.png
+  - Deity S-Mic 2
+  - '2018'
+  - Deity
+  - China
+  - Short shotgun microphone offering low self-noise and a natural tone, providing
+    an affordable alternative for indie filmmakers and location sound recordists.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $349
+  - ''
+  - IR available not available
+- - '64'
+  - img/electronicsV7.png
+  - sE Electronics V7
+  - '2017'
+  - sE Electronics
+  - China
+  - Road-worthy supercardioid dynamic vocal mic featuring a specialized aluminum voice
+    coil for crisp, lively sound and excellent feedback rejection. 
+  - $99
+  - ''
+  - IR not available
+- - '65'
+  - img/lewitt-ltc-440.png
+  - Lewitt LCT 440 PURE
+  - '2017'
+  - Lewitt
+  - Austria
+  - Modern cardioid condenser mic with a very low noise floor and a clean, detailed
+    sound, suitable for vocals, instruments, and ASMR recording. This is a great mic with a AKG 414 feel.
+  - $269
+  - ''
+  - IR available not available
+- - '88'
+  - img/townsend.png
+  - Townsend Labs Sphere L22
+  - '2017'
+  - Townsend Labs (UA)
+  - USA
+  - Dual-capsule condenser modeling microphone system that, combined with software,
+    emulates a wide range of classic microphones with remarkable accuracy. More on
+    <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $1499
+  - ''
+  - IR not available
+- - '60'
+  - img/astonOrigin.png
+  - Aston Origin
+  - '2016'
+  - Aston Microphones
+  - UK
+  - Affordable large-diaphragm condenser with a sleek stainless mesh design, delivering
+    a crisp, open sound on vocals and acoustic instruments. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $299
+  - ''
+  - IR not available
+- - '61'
+  - img/austonSpirit.png
+  - Aston Spirit
+  - '2016'
+  - Aston Microphones
+  - UK
+  - Multi-pattern condenser microphone offering selectable cardioid, omni, and figure-8
+    patterns, known for its transparent sound and build quality. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $449
+  - ''
+  - IR available not available
+- - '96'
+  - img/slate.png
+  - Slate Digital VMS ML-1
+  - '2016'
+  - Slate Digital
+  - USA
+  - "Linear, flat-response large-diaphragm condenser microphone designed to be used
+    with Slate\u2019s modeling software, allowing it to emulate a variety of classic
+    microphones digitally. More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $799
+  - ''
+  - IR not available
+- - '99'
+  - img/soyuz017tube.png
+  - Soyuz 017 TUBE
+  - '2016'
+  - Soyuz
+  - Russia
+  - Luxury large-diaphragm tube condenser microphone handcrafted in Russia, offering
+    a lush, vintage-inspired sound and build quality reminiscent of classic Soviet
+    designs. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $4000
+  - ''
+  - IR available not available
+- - '94'
+  - img/audioTechnicBP40.png
+  - Audio-Technica BP40
+  - '2015'
+  - Audio-Technica
+  - Japan
+  - Broadcast large-diaphragm dynamic microphone delivering a robust, warm voice tone
+    with a hypercardioid pattern, designed to compete with industry-standard broadcast
+    mics. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $349
+  - ''
+  - IR not available
+- - '44'
+  - img/placeholder.jpg
+  - "R\xD8DE NT-USB"
+  - '2014'
+  - "R\xD8DE"
+  - Australia
+  - Convenient USB cardioid condenser mic with built-in headphone monitoring, delivering
+    studio-quality audio for voice-overs and music recording. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $169
+  - ''
+  - IR not available
+- - '66'
+  - img/placeholder.jpg
+  - Lewitt LCT 940
+  - '2013'
+  - Lewitt
+  - Austria
+  - High-end studio microphone blending a FET and tube circuit (controllable mix)
+    with multi-pattern capability, offering extreme flexibility in tonal character.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $1699
+  - ''
+  - IR not available
+- - '38'
+  - img/placeholder.jpg
+  - Audio-Technica AT2020USB+
+  - '2012'
+  - Audio-Technica
+  - Japan
+  - USB version of the AT2020 condenser mic, providing plug-and-play connectivity
+    and quality sound for home recording and streaming. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $149
+  - ''
+  - IR not available
+- - '75'
+  - img/placeholder.jpg
+  - Apogee MiC
+  - '2011'
+  - Apogee
+  - USA
+  - Compact studio-quality cardioid condenser that connects directly to iOS devices
+    and computers, ideal for mobile recording of vocals and acoustic instruments.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $229
+  - ''
+  - IR available not available
+- - '80'
+  - img/placeholder.jpg
+  - Telefunken CU-29 Copperhead
+  - '2011'
+  - Telefunken
+  - USA
+  - "Affordable high-fidelity tube condenser microphone delivering a warm, balanced
+    tone on vocals and acoustic instruments, offering an entry into Telefunken\u2019s
+    classic sound. More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $1295
+  - ''
+  - IR not available
+- - '59'
+  - img/placeholder.jpg
+  - Shure KSM313
+  - '2010'
+  - Shure
+  - USA
+  - Bi-directional ribbon microphone with a dual-voice design (bright front, dark
+    rear), providing versatility for guitar amps and vocals with robust build quality.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $1299
+  - ''
+  - IR available not available
+- - '72'
+  - img/placeholder.jpg
+  - MXL R144
+  - '2010'
+  - MXL
+  - USA
+  - Entry-level bidirectional ribbon microphone providing a smooth, warm tone for
+    recording guitar cabinets, vocals, and room ambiance at an affordable price. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR not available
+- - '74'
+  - img/placeholder.jpg
+  - Samson Q2U
+  - '2010'
+  - Samson
+  - USA
+  - Handheld dynamic microphone with both XLR and USB outputs, popular for beginners
+    in podcasting for its versatility and decent sound quality. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $59
+  - ''
+  - IR not available
+- - '91'
+  - img/placeholder.jpg
+  - CAD E100S
+  - '2010'
+  - CAD
+  - USA
+  - Supercardioid large-diaphragm condenser microphone boasting an extremely low self-noise
+    (3.7 dBA) and high sensitivity, excellent for detailed vocals and quiet sources.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $599
+  - ''
+  - IR available not available
+- - '92'
+  - img/placeholder.jpg
+  - Shure Beta 91A
+  - '2010'
+  - Shure
+  - USA
+  - Boundary condenser microphone primarily used inside kick drums and on piano soundboards,
+    capturing deep lows and attack without stand mounting. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $239
+  - ''
+  - IR not available
+- - '45'
+  - img/placeholder.jpg
+  - Blue Yeti
+  - '2009'
+  - Blue Microphones
+  - USA
+  - Versatile USB microphone with multiple pickup patterns (cardioid, omni, bidirectional,
+    stereo), widely used for streaming, podcasting, and VO. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $129
+  - ''
+  - IR available not available
+- - '33'
+  - img/placeholder.jpg
+  - AKG C214
+  - '2008'
+  - AKG
+  - Austria
+  - Affordable large-diaphragm condenser based on the C414, offering a clear cardioid
+    response for vocals and instruments in project studios. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $399
+  - ''
+  - IR available not available
+- - '79'
+  - img/placeholder.jpg
+  - Telefunken M80
+  - '2008'
+  - Telefunken
+  - USA
+  - Live vocal dynamic microphone with a condenser-like high-end response and tight
+    supercardioid pattern, bringing studio-quality articulation to the stage. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $249
+  - ''
+  - IR available not available
+- - '34'
+  - img/placeholder.jpg
+  - AKG D5
+  - '2007'
+  - AKG
+  - Austria
+  - Rugged supercardioid dynamic vocal mic with a crisp sound and high feedback rejection,
+    engineered for lead vocals on loud stages. More on <a style="color:rgb(43, 0,
+    136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR not available
+- - '51'
+  - img/placeholder.jpg
+  - Heil PR40
+  - '2006'
+  - Heil Sound
+  - USA
+  - Large-diaphragm dynamic microphone with extended frequency response, providing
+    a warm yet articulate sound ideal for podcast and broadcast voices. More on <a
+    style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $329
+  - ''
+  - IR available not available
+- - '46'
+  - img/placeholder.jpg
+  - Blue Snowball
+  - '2005'
+  - Blue Microphones
+  - USA
+  - Sphere-shaped dual-capsule USB microphone with cardioid and omni modes, popular
+    for entry-level podcasting, voice chat, and demo recording. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $69
+  - ''
+  - IR not available
+- - '48'
+  - img/placeholder.jpg
+  - Blue Bluebird
+  - '2005'
+  - Blue Microphones
+  - USA
+  - Cardioid condenser microphone with a bright character and sleek design, suitable
+    for vocals, guitars, and percussion in home and project studios. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $299
+  - ''
+  - IR not available
+- - '14'
+  - img/placeholder.jpg
+  - Shure KSM44
+  - '2004'
+  - Shure
+  - USA
+  - Premium multi-pattern condenser microphone offering selectable polar patterns
+    and low noise for versatile studio use. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $999
+  - ''
+  - IR not available
+- - '26'
+  - img/placeholder.jpg
+  - Sennheiser e 935
+  - '2004'
+  - Sennheiser
+  - Germany
+  - Durable cardioid dynamic vocal microphone providing clear, natural sound for lead
+    vocals, with enhanced high-mid presence for cut-through. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $179
+  - ''
+  - IR not available
+- - '35'
+  - img/placeholder.jpg
+  - Audio-Technica AT2020
+  - '2004'
+  - Audio-Technica
+  - Japan
+  - Popular entry-level cardioid condenser microphone offering balanced sound and
+    reliability for home studio vocals and instruments. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR available not available
+- - '37'
+  - img/placeholder.jpg
+  - Audio-Technica AT4040
+  - '2004'
+  - Audio-Technica
+  - Japan
+  - General-purpose large-diaphragm condenser offering a smooth frequency response
+    and high SPL handling for studio vocals and instruments. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $299
+  - ''
+  - IR available not available
+- - '42'
+  - img/placeholder.jpg
+  - "R\xD8DE VideoMic"
+  - '2004'
+  - "R\xD8DE"
+  - Australia
+  - On-camera shotgun microphone designed for DSLR and camcorder use, capturing directional
+    audio for video with clarity. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $149
+  - ''
+  - IR not available
+- - '39'
+  - img/placeholder.jpg
+  - "R\xD8DE NT1-A"
+  - '2003'
+  - "R\xD8DE"
+  - Australia
+  - Extremely low-noise cardioid condenser microphone known for its clarity and detailed
+    sound on vocals and acoustic instruments. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $229
+  - ''
+  - IR available not available
+- - '47'
+  - img/placeholder.jpg
+  - Blue Bottle
+  - '2003'
+  - Blue Microphones
+  - USA
+  - High-end tube microphone system with interchangeable capsules, revered for its
+    rich, full sound and used in top-tier studios on vocals and instruments. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $3999
+  - ''
+  - IR available not available
+- - '95'
+  - img/placeholder.jpg
+  - Behringer B-2 Pro
+  - '2003'
+  - Behringer
+  - Germany
+  - Dual-diaphragm multi-pattern condenser microphone that offers switchable cardioid,
+    omni, and figure-8 patterns at a budget price, making studio multi-pattern functionality
+    accessible. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $149
+  - ''
+  - IR available not available
+- - '12'
+  - img/placeholder.jpg
+  - Shure Beta 52A
+  - '2002'
+  - Shure
+  - USA
+  - Tailored dynamic microphone for kick drums and bass instruments, capturing deep
+    low end punch and attack. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $189
+  - ''
+  - IR not available
+- - '41'
+  - img/placeholder.jpg
+  - "R\xD8DE NT5"
+  - '2002'
+  - "R\xD8DE"
+  - Australia
+  - Matched pair small-diaphragm condensers ideal for stereo recording of drum overheads,
+    acoustic instruments, and live performances. More on <a style="color:rgb(43, 0,
+    136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $429 (pair)
+  - ''
+  - IR available not available
+- - '63'
+  - img/placeholder.jpg
+  - sE Electronics sE2200
+  - '2002'
+  - sE Electronics
+  - UK/China
+  - Renowned cardioid condenser microphone (used by notable artists) offering a balanced,
+    classic sound on vocals and instruments with low self-noise. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $299
+  - ''
+  - IR available not available
+- - '81'
+  - img/placeholder.jpg
+  - AEA R84
+  - '2002'
+  - AEA
+  - USA
+  - "Large ribbon microphone with a classic tonality\u2014rich lows and smooth highs\u2014often
+    used for vocals, strings, and brass, and capable of handling high SPL sources.
+    More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $1099
+  - ''
+  - IR available not available
+- - '9'
+  - img/placeholder.jpg
+  - Shure SM7B
+  - '2001'
+  - Shure
+  - USA
+  - Renowned broadcast dynamic microphone with a smooth, full-range response, popular
+    for radio, podcasts, and rock vocals. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $399
+  - ''
+  - IR available not available
+- - '27'
+  - img/placeholder.jpg
+  - Sennheiser e 609
+  - '2001'
+  - Sennheiser
+  - Germany
+  - Flat-profile supercardioid dynamic mic designed to hang in front of guitar cabinets,
+    capturing a bright, aggressive tone with ease. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR available not available
+- - '40'
+  - img/placeholder.jpg
+  - "R\xD8DE NTK"
+  - '2001'
+  - "R\xD8DE"
+  - Australia
+  - Valve (tube) condenser microphone delivering warm, full-bodied tone for vocals
+    and instruments, with classic tube harmonics. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $529
+  - ''
+  - IR not available
+- - '71'
+  - img/MXL990.png
+  - MXL 990
+  - '2001'
+  - MXL
+  - USA
+  - Budget cardioid condenser microphone that introduced many home studios to large-diaphragm
+    mic sound, offering a bright tone suited for vocals and acoustic guitars.
+  - $99
+  - ''
+  - IR available not available
+- - '73'
+  - img/SamsungC01.png
+  - Samson C01
+  - '2001'
+  - Samson
+  - USA
+  - One of the early affordable large-diaphragm condensers, delivering a clear, if
+    slightly bright, sound for vocals and instruments in project studios.
+  - $79
+  - ''
+  - IR available not available
+- - '84'
+  - img/rhodent4.png
+  - "Rhode NT4"
+  - '2001'
+  - "R\xD8DE"
+  - Australia
+  - Fixed X/Y stereo condenser microphone (two capsules at 90\xB0) simplifying stereo recording of ensembles, choirs, or environmental sound with a single unit.
+  - $529
+  - ''
+  - IR not available
+- - '93'
+  - img/microtechM930.png
+  - Microtech Gefell M 930
+  - '2000'
+  - Microtech Gefell
+  - Germany
+  - "Compact large-diaphragm cardioid condenser mic made by Neumann\u2019s sister
+    company, offering pristine audio quality with low self-noise, favored in voice-over
+    and music studios. More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $1300
+  - ''
+  - IR available not available
+- - '13'
+  - img/shureKSM32.png
+  - Shure KSM32
+  - '1999'
+  - Shure
+  - USA
+  - Transparent large-diaphragm condenser mic ideal for vocals and instruments, known
+    for its natural sound and durability. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $549
+  - ''
+  - IR available not available
+- - '97'
+  - img/neumannKMS105.png
+  - Neumann KMS 105
+  - '1999'
+  - Neumann
+  - Germany
+  - Premium handheld supercardioid condenser vocal microphone bringing studio-quality
+    sound to the stage, with excellent rejection and clear, airy highs. More on <a
+    style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $699
+  - ''
+  - IR available not available
+- - '11'
+  - img/shure87A.png
+  - Shure Beta 87A
+  - '1998'
+  - Shure
+  - USA
+  - Condenser vocal microphone delivering studio-quality detail on stage, with a smooth
+    top end and tight supercardioid pattern. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $249
+  - ''
+  - IR available not available
+- - '25'
+  - img/E835.png
+  - Sennheiser e 835
+  - '1998'
+  - Sennheiser
+  - Germany
+  - Affordable cardioid dynamic vocal mic designed for live performance, delivering
+    solid sound and feedback rejection on stage. More on <a style="color:rgb(43, 0,
+    136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR available not available
+- - '58'
+  - img/RoyerR121.png
+  - Royer R-121
+  - '1998'
+  - Royer Labs
+  - USA
+  - Modern ribbon microphone offering a balanced frequency response and high SPL handling,
+    a go-to for electric guitar amps and brass instruments. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $1295
+  - ''
+  - IR not available
+- - '21'
+  - img/neumannTLM103.png
+  - Neumann TLM 103
+  - '1997'
+  - Neumann
+  - Germany
+  - Modern large-diaphragm cardioid condenser offering extremely low self-noise and
+    a presence boost, popular for vocals and voice-over. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $1100
+  - ''
+  - IR available not available
+- - '10'
+  - img/shureSM58A.png
+  - Shure Beta 58A
+  - '1996'
+  - Shure
+  - USA
+  - High-output supercardioid dynamic vocal mic offering superior gain-before-feedback
+    and crisp sound for live performances. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $159
+  - ''
+  - IR not available
+- - '68'
+  - img/dpa4060.png
+  - DPA 4060
+  - '1996'
+  - DPA
+  - Denmark
+  - Tiny omnidirectional lavalier microphone with very low noise and flat response,
+    extensively used in theater, film, and hidden on instruments. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $450
+  - ''
+  - IR not available
+- - '36'
+  - img/audioTechnica450.png
+  - Audio-Technica AT4050
+  - '1995'
+  - Audio-Technica
+  - Japan
+  - Multipattern studio condenser known for its neutral, transparent sound, suitable
+    for a wide range of sources from vocals to overheads. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $699
+  - ''
+  - IR not available
+- - '90'
+  - img/soundfieldST250.png
+  - SoundField ST250
+  - '1995'
+  - SoundField (Calrec)
+  - UK
+  - "Portable ambisonic microphone system capturing a full 360\xB0 sound field (tetrahedral
+    capsule array), used for immersive audio recordings and flexible post-production
+    mixing. More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $5000
+  - ''
+  - IR not available
+- - '22'
+  - img/neumannKM184.png
+  - Neumann KM184
+  - '1993'
+  - Neumann
+  - Germany
+  - Compact small-diaphragm cardioid condenser ideal for acoustic instruments and
+    overheads, known for its natural tonal reproduction. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $850
+  - ''
+  - IR not available
+- - '100'
+  - img/neumannKu100.png
+  - Neumann KU 100
+  - '1993'
+  - Neumann
+  - Germany
+  - Binaural dummy head microphone with anatomically shaped ears, capturing immersive
+    3D stereo sound as heard by human ears, used for binaural recordings and VR audio.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $8000
+  - ''
+  - IR not available
+- - '76'
+  - img/sonyc800.png
+  - Sony C-800G
+  - '1992'
+  - Sony
+  - Japan
+  - Ultra high-end tube condenser microphone with built-in cooling system, revered
+    for its crisp, forward vocal sound in pop and R&B productions (a go-to for many
+    top artists). More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $10000
+  - ''
+  - IR not available
+- - '70'
+  - img/oktaviamk12.png
+  - Oktava MK-012
+  - '1990'
+  - Oktava
+  - Russia
+  - Modular small-diaphragm condenser (often sold with multiple capsules) known for
+    its warm, mellow sound, popular for drum overheads and acoustic instruments (often
+    modified for enhanced performance). More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $200 (with capsules)
+  - ''
+  - IR not available
+- - '32'
+  - img/akgD112.png
+  - AKG D112
+  - '1986'
+  - AKG
+  - Austria
+  - Egg-shaped cardioid dynamic microphone tailored for kick drums and bass cabinets,
+    delivering a tight low end and punchy attack. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $199
+  - ''
+  - IR not available
+- - '67'
+  - img/dpa411.png
+  - DPA 4011
+  - '1986'
+  - DPA
+  - Denmark
+  - Reference-grade cardioid small-diaphragm condenser microphone providing natural,
+    accurate sound, widely used in classical music recording and as instrument spot
+    mic. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $2100
+  - ''
+  - IR available not available
+- - '83'
+  - img/crownpcc.png
+  - Crown PCC-160
+  - '1986'
+  - Crown (AKG)
+  - USA
+  - Phase Coherent Cardioid boundary microphone used on stage floors (Broadway, conferences)
+    to pick up dialogue and stage performances with clarity across a wide area. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $350
+  - ''
+  - IR available not available
+- - '82'
+  - img/milab-vip50.png
+  - Milab VIP-50
+  - '1984'
+  - Milab
+  - Sweden
+  - Multi-pattern FET condenser with a unique rectangular capsule, famous for its
+    use on iconic recordings and valued for its clear, detailed sound on vocals. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $2000
+  - ''
+  - IR not available
+- - '101'
+  - img/shuresm81.png
+  - Shure SM81
+  - '1978'
+  - Shure
+  - USA
+  - Staple small-diaphragm cardioid condenser microphone with flat response and high
+    SPL capability, widely used for acoustic instruments, drum overheads, and choral
+    recording. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $349
+  - ''
+  - IR available not available
+- - '28'
+  - img/sennheiserMkh416.png
+  - Sennheiser MKH 416
+  - '1975'
+  - Sennheiser
+  - Germany
+  - Industry-standard short shotgun microphone for film and voice-over, offering a
+    focused pickup and rich, crisp voice reproduction. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $999
+  - ''
+  - IR not available
 - - '0'
   - img/sm7.jpg
   - SM 7
   - '1973'
   - Shure
   - USA
-  - ' The Shure SM7 is a professional cardioid dynamic microphone. It has been described
+  - The Shure SM7 is a professional cardioid dynamic microphone. It has been described
     as an industry- standard technical microphone , "iconic" for its focused, directional
     sound and its widespread adoption in radio , television and recording studios.
     In 2007-2008, the SM7B model became very popular for professional podcasting!
-    Users include Mick Jagger and Michael Jackson.'
+    Users include Mick Jagger and Michael Jackson.
   - $500
   - "Dynamic Cardioid, Sensitivity \u221259 dBV/Pa (1.12 mV), Impedance 150 ohms,
     Weight 765.4 grams"
   - "Dynamic Cardioid, Sensitivity \u221259 dBV/Pa (1.12 mV), Impedance 150 ohms,
     Weight 765.4 grams"
+- - '69'
+  - img/schoeps41.png
+  - Schoeps CMC6 MK4
+  - '1973'
+  - Schoeps
+  - Germany
+  - High-end modular small-diaphragm cardioid condenser (Colette series) prized for
+    its exceptionally natural and transparent sound in classical and location recording.
+    More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $1700
+  - ''
+  - IR available not available
+- - '24'
+  - img/sennheiser441.png
+  - Sennheiser MD 441
+  - '1971'
+  - Sennheiser
+  - Germany
+  - High-end supercardioid dynamic microphone with a condenser-like clarity, excellent
+    for vocals, horns, and detailed instrument capture. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $899
+  - ''
+  - IR not available
+- - '30'
+  - img/akgc414.png
+  - AKG C414
+  - '1971'
+  - AKG
+  - Austria
+  - Famous multi-pattern condenser mic with multiple revisions, valued for its versatility
+    on vocals, drum overheads, pianos, and more. More on <a style="color:rgb(43, 0,
+    136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $1099
+  - ''
+  - IR not available
+- - '31'
+  - img/akgc415.png
+  - AKG C451
+  - '1969'
+  - AKG
+  - Austria
+  - Small-diaphragm condenser microphone providing crisp, detailed reproduction of
+    cymbals, acoustic guitars, and percussion. More on <a style="color:rgb(43, 0,
+    136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $499
+  - ''
+  - IR available not available
 - - '1'
   - img/re20.webp
   - RE20
@@ -30,6 +967,189 @@
   - '<a href=''impulse/EV_RE20_HPF.wav'' target=''_blank''>IR HPF download</a><br/><a
     href=''impulse/EV_RE20_Flat.wav'' target=''_blank''>IR Flat download</a><br/>Provided
     by: <a target=''_blank'' href=''https://micirp.blogspot.com/search/label/Electrovoice''>MICIRP</a>'
+- - '19'
+  - img/neumann_u87.png
+  - Neumann U87
+  - '1967'
+  - Neumann
+  - Germany
+  - Iconic studio condenser microphone with a balanced, clear sound and selectable
+    polar patterns, ubiquitous in professional studios. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $3200
+  - ''
+  - IR available not available
+- - '7'
+  - img/shure58.png
+  - Shure SM58
+  - '1966'
+  - Shure
+  - USA
+  - Iconic cardioid dynamic vocal microphone known for its durability and clarity,
+    ideal for live vocals or speech. You have to own one! Its a must! really!
+  - $99
+  - Dynamic Polar Pattern Cardioid Sensitivity '-54.5' dBV/Pa Impedance 150
+  - IR not available
+- - '54'
+  - img/beyerm201.png
+  - Beyerdynamic M 201
+  - '1966'
+  - Beyerdynamic
+  - Germany
+  - Small-diaphragm hypercardioid dynamic mic providing detailed, tight capture of
+    snare drums, toms, and acoustic instruments with minimal bleed. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $299
+  - ''
+  - IR not available
+- - '50'
+  - img/ev635.png
+  - Electro-Voice 635A
+  - '1965'
+  - Electro-Voice
+  - USA
+  - "Sturdy omnidirectional dynamic \"reporter\u2019s mic\" famed for its durability
+    and clear speech reproduction in broadcast and field interviews. More on <a style=\"color:rgb(43,
+    0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\" target=\"_blank\">Wikipedia...</a>"
+  - $129
+  - ''
+  - IR not available
+- - '52'
+  - img/shure57.png
+  - Shure SM57
+  - '1965'
+  - Shure
+  - USA
+  - Rugged cardioid dynamic instrument microphone prized for its versatility on snare
+    drums, guitar amps, and vocals. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $99
+  - ''
+  - IR available not available
+- - '53'
+  - img/beyer_m88.png
+  - Beyerdynamic M 88
+  - '1962'
+  - Beyerdynamic
+  - Germany
+  - Classic hypercardioid dynamic mic with a wide frequency range, used on bass drums,
+    vocalists, and brass due to its punchy yet balanced response. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $399
+  - ''
+  - IR available not available
+- - '18'
+  - img/neumann_u67.png
+  - Neumann U67
+  - '1960'
+  - Neumann
+  - Germany
+  - Vintage multi-pattern tube condenser mic known for its smooth, silky tone, a workhorse
+    for vocals and instruments in the 1960s. More on <a style="color:rgb(43, 0, 136)"
+    href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $7000
+  - ''
+  - IR not available
+- - '23'
+  - img/sennheiser_md421.png
+  - Sennheiser MD 421
+  - '1960'
+  - Sennheiser
+  - Germany
+  - Versatile cardioid dynamic microphone with a full-bodied sound, commonly used
+    on drums, guitar cabinets, and broadcast vocals. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $379
+  - ''
+  - IR available not available
+- - '78'
+  - img/telefunken_elam260.png
+  - Telefunken ELA M 251E
+  - '1959'
+  - Telefunken
+  - Germany
+  - One of the most sought-after tube condenser microphones ever made, offering a
+    silky high end and rich midrange; vintage originals are rare and costly, with
+    modern reissues used on elite vocal recordings. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $10000
+  - ''
+  - IR not available
+- - '77'
+  - img/SonyC-37A.png
+  - Sony C-37A
+  - '1958'
+  - Sony
+  - Japan
+  - "Vintage tube condenser microphone with switchable polar patterns (uni/omni),
+    known for its smooth midrange and often used on vocals in the 1950s\u201360s.
+    More on <a style=\"color:rgb(43, 0, 136)\" href=\"https://en.wikipedia.org/wiki/Microphone\"
+    target=\"_blank\">Wikipedia...</a>"
+  - $3000 (used)
+  - ''
+  - IR available not available
+- - '52'
+  - img/beyer_m160.png
+  - Beyerdynamic M 160
+  - '1957'
+  - Beyerdynamic
+  - Germany
+  - Double-ribbon hypercardioid microphone known for its smooth treble and tight pickup,
+    often used on string sections, guitar amps, and drums (overheads). More on <a
+    style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $699
+  - ''
+  - IR not available
+- - '56'
+  - img/rca77-dx.png
+  - RCA 77-DX
+  - '1954'
+  - RCA
+  - USA
+  - Multiplate ribbon microphone capable of various pickup patterns (via mechanical
+    switch), known for its classic warm sound in broadcast and music studios. More
+    on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $2500 (used)
+  - ''
+  - IR not available
+- - '29'
+  - img/akgC12.png
+  - AKG C12
+  - '1953'
+  - AKG
+  - Austria
+  - Vintage tube multi-pattern condenser known for its airy top end and musical warmth,
+    ancestor of many modern high-end studio mics. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $10000
+  - ''
+  - IR available not available
+- - '57'
+  - img/coles4038.png
+  - Coles 4038
+  - '1953'
+  - Coles
+  - UK
+  - British bi-directional ribbon microphone designed by the BBC, revered for its
+    smooth, natural sound on drum overheads, brass, and vocals. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $1300
+  - ''
+  - IR available not available
+- - '20'
+  - img/neumann_m49.png
+  - Neumann M49
+  - '1951'
+  - Neumann
+  - Germany
+  - Classic remote-controlled multi-pattern tube condenser mic with a lush, smooth
+    character, prized for vocal and orchestral recording. More on <a style="color:rgb(43,
+    0, 136)" href="https://en.wikipedia.org/wiki/Microphone" target="_blank">Wikipedia...</a>
+  - $9000
+  - ''
+  - IR not available
 - - '6'
   - img/U47.png
   - Neuman
@@ -64,6 +1184,19 @@
   - $259 (Shure Super55)
   - "Dymanic Cardioid<br/>50 - 15.000 Hz<br/>EIA \u2212150 \u03A9 (270 \u03A9 current)"
   - IR not available
+- - '55'
+  - img/rca44_bx.png
+  - RCA 44-BX
+  - '1936'
+  - RCA
+  - USA
+  - Vintage bi-directional ribbon microphone with a rich, smooth tone, famously used
+    in 1940s broadcast and studio recordings for vocals and instruments. More on <a
+    style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
+    target="_blank">Wikipedia...</a>
+  - $3000 (used)
+  - ''
+  - IR available not available
 - - '3'
   - img/coles4038.png
   - 4038 Studio Ribbon Microphone
@@ -107,15 +1240,5 @@
     credit him with its invention. More on <a style="color:rgb(43, 0, 136)" href="https://en.wikipedia.org/wiki/Microphone"
     target="_blank">Wikipedia...</a>
   - $? - Unknown
-  - 'DIY: <img src="img/carbon.gif" width="150"/>'
-  - IR not available
-- - '7'
-  - img/placeholder.jpg
-  - “Shure SM58”
-  - '1966'
-  - Shure
-  - USA
-  - “Iconic cardioid dynamic vocal microphone known for its durability and clarity, ideal for live vocals and speech.”
-  - $99”
-  - "Type: Dynamic; Frequency Response: 50 Hz–15 kHz; Polar Pattern: Cardioid; Sensitivity: -54.5 dBV/Pa; Impedance: 150 Ω"
+  - ''
   - IR not available
