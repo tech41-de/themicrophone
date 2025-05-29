@@ -23,8 +23,7 @@ email: mat@themicrophone.org
 description: The Microphone - All about the history and the application of microphones
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://themicrophone.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tech41-de
-github_username:  tech41-de
+github_username:  taluvi-dev
 
 # Build settings
 theme: minima
